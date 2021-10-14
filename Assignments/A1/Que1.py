@@ -1,5 +1,5 @@
 '''
-Q1 : Write a program that can encrypt  and decrypt using the Additive Cipher (Ceaser Cipher).
+Q1 : Write a program that can encrypt  and decrypt using the Additive Cipher (Caeser Cipher).
 '''
 
 from __future__ import annotations
