@@ -1,16 +1,12 @@
-# Study material of MCAC302 { Information Security } 
- 
+# Information Security { Assignment 1 }
 
-<h4> Unit-I : </h4> Overview of Security: Protection versus security; aspects of security– confidentiality, data integrity, availability, privacy; user authentication, access controls, Orange Book Standard.
 
-<h4> Unit-II : </h4> Security Threats: Program threats, worms, viruses, Trojan horse, trap door, stack and buffer overflow; system threats- intruders; communication threats- tapping and piracy.
+Q1. Write a program that can encrypt  and decrypt using the Additive Cipher.
 
-<h4> Unit-III : </h4> Cryptography: Substitution, transposition ciphers, symmetric-key algorithms: Data Encryption Standard, Advanced Encryption Standard, IDEA, Block cipher Operation, Stream Ciphers: RC-4. Public key encryption: RSA, ElGamal. Diffie-Hellman key exchange. Elliptic Curve,EC cryptography, Message Authentication code (MAC), Cryptographic hash function.
+Q2. Write a program that can encrypt and decrypyt using the Affine Cipher.
 
-<h4> Unit-IV : </h4> Digital signatures: ElGamal digital signature scheme , Elliptic Curve digital signature scheme, NISTdigital signature scheme.
+Q3. Write a program that can perform a letter frequency attack on an additive cipher without human intervention. Your software should produce possible plain text in rough order of likelihood. It would be good if your user interface allows user to specify " Give me top 10 possible plain texts"
 
-<h4> Unit-V : </h4> Key Management and Distribution : Symmetric Key Distribution, X.509 Certificate public key infrastructures.  
+Q4. Write a program that can perform a letter frequency attack on any monoalphabetic substitution cipher without human intervention. Your software should produce possible plain text in rough order of likelihood. It would be good if your user interface allows user to specify " Give me top 10 possible plain texts"
 
-<h4> Unit-VI : </h4>Intrusion detection and prevention. 
- 
-<hr>
+Q5. Write a program that can encrypt and Decrypt using a 2 X 2 Hill Cipher.
