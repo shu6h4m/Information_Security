@@ -11,6 +11,6 @@
 
 <h4> Unit-V : </h4> Key Management and Distribution : Symmetric Key Distribution, X.509 Certificate public key infrastructures.  
 
-<h4> Unit-VI : </h4>Intrusion detection and prevention.
+<h4> Unit-VI : </h4>Intrusion detection and prevention. 
  
 <hr>
