@@ -1,12 +1,5 @@
-'''
-Output
-Enter a string to encode : Shobhit@21
-Encoded String :  38 401 111 89 401 501 611 @ owt eno 
-'''
 
-#Program for Additive Cypher
-
-#function to encode 
+ #function to encode 
 def encode(text,a,b):
     result=""
     
